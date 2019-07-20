@@ -37,8 +37,12 @@ We will do a project that covers almost all we have learned so far
 
 Feel free to ask questions.
 
-Here, there is a good [resource](https://www.digitalocean.com/community/tutorial_series/understanding-the-dom-document-object-model) for DOM.  
+##### Resources
 
+This week, we will cover the first part of the DOM. Here there are great DOM resources for both this week and the next week. 
+-  [Digital Ocean - Understanding the DOM](https://www.digitalocean.com/community/tutorial_series/understanding-the-dom-document-object-model)
+-  [W3Schools - JavaScript HTML DOM](https://www.w3schools.com/js/js_htmldom.asp)
+-  [YouTube - JavaScript DOM Tutorial](https://www.youtube.com/watch?v=FIORjGvT0kk&list=PL4cUxeGkcC9gfoKa5la9dsdCNpuey2s-V&index=1)
 
 ---
 
