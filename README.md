@@ -10,8 +10,14 @@ JS is going to be our core knowledge, thats why this week we will also solve sim
 
 ### Sunday Session
 
-#### Topics
+#### Lecture
+##### What is Dom?
+- Document Object Model
+- Created by the browser when a web page is loaded
+- In graphical form, it looks like a tree of elements/ nodes
+- Programmatically, we can use JS read or change the DOM 
 
+##### What we will do with DOM in this lecture?
 1. Adding Javascript to Websites
 
 2. Introduction to the Document Object Model (DOM)
@@ -24,7 +30,10 @@ JS is going to be our core knowledge, thats why this week we will also solve sim
 
 6. Manipulating HTML Element Attributes
 
-7. And a project that covers almost all we have learned so far
+
+##### In the second part
+
+We will do a project that covers almost all we have learned so far
 
 Feel free to ask questions.
 
@@ -35,7 +44,7 @@ Here, there is a good [resource](https://www.digitalocean.com/community/tutorial
 
 ### Assignments
 
- In this section, there is a mandatory [assignment](./assignment) for you to solve.
+In this section, there is a mandatory [assignment](./assignment) for you to solve.
 
 Please feel free to ask any question on the #questions channel on Slack and also feel free to answer if you have answers for the questions of your colleagues. The more you help and explain the more you learn. 
 
