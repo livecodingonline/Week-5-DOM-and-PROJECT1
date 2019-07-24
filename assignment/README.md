@@ -1,7 +1,7 @@
 
 ## Custom DOM manipulation
 
-**_Deadline Thursday evening_**
+**_Deadline Wednesday evening_**
 
 1. Make an app.js and start by declaring an array that contains 10 strings. These strings should be book titles of you have read (or made up) and be lowercase without spaces so that you can use these later as HTML id attributes. (Example: Jose Saramago - Seeing -> ose-saramago-seeing). Add a console.log statement to output this array to console. (This is for debugging and making sure everything is in order.
 
