@@ -17,7 +17,7 @@ JS is going to be our core knowledge, thats why this week we will also solve sim
 - In graphical form, it looks like a tree of elements/ nodes
 - Programmatically, we can use JS read or change the DOM 
 
-##### What we will do with DOM in this lecture?
+##### What will we do with DOM in this lecture?
 1. Adding Javascript to Websites
 
 2. Introduction to the Document Object Model (DOM)
